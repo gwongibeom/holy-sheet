@@ -1,0 +1,32 @@
+{
+  "name": "@gwongibeom/holy-sheet",
+  "version": "0.0.1",
+  "description": "Easy and simple validation library for sheet file",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "validation",
+    "sheet",
+    "xlsx"
+  ],
+  "author": "Gibeom Gwon",
+  "license": "MIT",
+  "packageManager": "pnpm@10.8.0",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.8",
+    "@types/xlsx": "^0.0.36",
+    "typescript": "^5.8.3"
+  }
+}
