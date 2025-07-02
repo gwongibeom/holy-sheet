@@ -80,4 +80,4 @@ In our admin web page, there are SO MANY data upsert logic functions with sheet 
 We even have a B2B web also, so probably total sheet validation functions exist over 40.
 
 Validation logic like this example usually doesn't need many edits, but nested loops are quite hard to understand quickly.
-Hard-to-understand code means reading programmers are taking time on shit like this validation logic, making programmers tired faster and wanting to go home. (Actually I want to go home every time)₩
+Hard-to-understand code means reading programmers are taking time on shit like this validation logic, making programmers tired faster and wanting to go home. (Actually I want to go home every time)
