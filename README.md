@@ -1,6 +1,10 @@
 # holy-sheet
 Easy and simple validation library for sheet file
 
+## Documentation
+- [한국어 가이드](./docs/ko/guide.md)
+- [English Guide](./docs/en/guide.md)
+
 # Why I Made this
 Before I made holy-sheet my team usually run validation logic sheet file by nested loops like this.
 ```typescript
