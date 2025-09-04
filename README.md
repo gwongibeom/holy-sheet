@@ -1,5 +1,10 @@
 # holy-sheet
 Easy and simple validation library for sheet file
+> [!WARNING]
+> ⚠️ **This library is in very very superduper mega kamisa early development stage**
+> 
+> Not recommended for production use. APIs may change at any time.
+> Use for experimental purposes only.
 
 ## Documentation
 - [한국어 가이드](./docs/ko/guide.md)
